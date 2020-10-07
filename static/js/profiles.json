@@ -1,0 +1,59 @@
+{
+  "foreign" : [
+    { 
+      "r_name" : "Cicero Elizaga",
+      "k_name" : "シセロ・エリザが",
+      "hired" : "2018",
+      "country" : "Philippines",
+      "lang" :[ "Filipino","English", "Japanese"]
+    },
+    { 
+      "r_name" : "Joaziel Bonganciso",
+      "k_name" : "ジョアジェル・ボンガンシソ",
+      "hired" : "2018",
+      "country" : "Malaysia",
+      "lang" :[ "Malay","English", "Japanese"]
+    },
+    { 
+      "r_name" : "Fashan Farizi",
+      "k_name" : "ファッシャン・ファリジ",
+      "hired" : "2018",
+      "country" : "Malaysia",
+      "lang" :[ "Malay","English","Japanese"]
+    }
+  ],
+  "newly":[
+    {
+        "k_name":"池田智哉",
+        "hired" :"2018",
+        "univ": "帝京大学設計学部",
+        "major": "設計学科"
+    },
+    {
+        "k_name":"澤田崇",
+        "hired" :"2018",
+        "univ": "大同大学工学部",
+        "major": "建築学科"
+    },
+    {
+        "k_name":"佐藤貴一",
+        "hired" :"2018",
+        "univ": "大同大学工学部",
+        "major": "建築学科"
+    },
+    {
+        "k_name":"今村光裕",
+        "hired" :"2018",
+        "univ": "名古屋工学院専門学校",
+        "major": "建築学科"
+    }
+  ],
+  "work_mom":[
+      {
+          "k_name":"佐川 諒子",
+          "hired" :"2015",
+          "univ": "立教大学",
+          "major": "営業学科"  
+      }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+    "about_us":[
+        {
+            "title":"",
+            "post":"",
+            "location":"fas fa-map-marker-alt",
+            "phone":"fas fa-phone",
+            "fax":"fas fa-fax",
+            "stat":"fas fa-train"
+        },
+        {
+            "title":"株式会社ガリレオ",
+            "post":"〒460-0003",
+            "location":"愛知県名古屋市中区錦1丁目6-36 N・A・Pビル5Ｆ",
+            "phone":"052-205-6270",
+            "fax":"052-205-6271",
+            "stat":"最寄駅：地下鉄伏見駅１０番出口から徒歩７分"
+        }
+    ],    
+    "about":["株式会社ガリレオ","〒460-0003","愛知県名古屋市中区錦1丁目6-36N・A・Pビル5Ｆ",
+        "052-205-6270","052-205-6271","最寄駅：地下鉄伏見駅１０番出口から徒歩７分"],
+    "list":[
+      {
+        "home":"<a href=\"index.html\">ホームページ</a>",
+        "intern":"<a href=\"internship.html\">インターンシップ</a>",
+        "cia":"<a href=\"about//subttl.html\">会社概要</a>",
+        "access":"<a href=\"access.html\">地図・アクセス</a>"
+      }
+    ]
+}
