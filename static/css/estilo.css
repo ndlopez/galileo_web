@@ -20,6 +20,7 @@ h2{
   border-left:5px solid green;
   background:#dcedc8;
 }
+.text-black{color:#000;}
 .card{
   /*background: #e6ee9c;margin-bottom: 20px;
   margin-top: 20px;padding: 10px;
@@ -47,9 +48,6 @@ h2{
   transition: .5s ease;
   background-color: #008CBA;
 }
-#cards:hover .overlay {
-  opacity: 1;
-}
 .text {
   color: white;
   font-size: 20px;
@@ -70,14 +68,6 @@ h2{
   text-decoration: none;
   transition: all 0.2s;
 }
-.opacity:hover{
-  filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
-  opacity: 0.7;
-  filter:alpha(opacity=70);
-  /*animation: sheen infinite .5s ease-in-out;
-  transform: rotate(-7deg);*/
-  transform: scale(1.03);
-}
 #list {margin-left: -25px;}
 #list li{
   list-style-type: none;
@@ -88,10 +78,6 @@ h2{
 }
 a{
   color:#a8a7a9;
-  text-decoration: none;
-}
-a:hover{
-  color:#4caf50;
   text-decoration: none;
 }
 /*the following id might not be necessary*/
@@ -200,7 +186,7 @@ footer{
   width: 26px;
 }
 .carousel-inner img {
-  width: 100%;
+  width: 90%;
   /*margin: auto;*/
   height:100%;
 }
